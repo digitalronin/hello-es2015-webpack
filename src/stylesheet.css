@@ -1,0 +1,13 @@
+body {
+  background-color:  black;
+  font-family:       "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  color:             white;
+  font-weight:       bold;
+  margin:            20px 20px auto;
+}
+
+main {
+  width: 95%;
+  margin: auto;
+}
+
