@@ -1,3 +1,6 @@
 import css from './stylesheet.css'
+import Hello from './hello'
 
-console.log("Hello from app.js")
+(new Hello({
+  target: document.getElementsByTagName('main')[0]
+})).run()
